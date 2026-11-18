@@ -2,7 +2,7 @@
 
 **SCF: Source-Compositional Forecasting for Multimodal Time Series**
 
-ICDE 2027 · Submission version
+ICDE 2027 · Under review
 
 [Project page](https://joss0623.github.io/projects/scf/) · [Research homepage](https://joss0623.github.io/)
 
