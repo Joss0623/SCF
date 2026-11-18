@@ -1,6 +1,24 @@
-# SCF: Source-Compositional Forecasting for Multimodal Time Series
+# SCF
 
-SCF constructs Numerical, Prior, Report, and Search forecast candidates and combines them with availability-aware, sample–horizon factorized routing.
+**SCF: Source-Compositional Forecasting for Multimodal Time Series**
+
+ICDE 2027 · Submission version
+
+[Project page](https://joss0623.github.io/projects/scf/) · [Research homepage](https://joss0623.github.io/)
+
+[Paper](paper/manuscript.pdf)
+
+## Overview
+
+Represent heterogeneous information as Numerical, Prior, Report, and Search forecasts, then compose them with availability-aware, sample–horizon factorized routing.
+
+![Method overview](assets/method.png)
+
+## Research focus
+
+- Source composition
+- Expert routing
+- Multimodal forecasting
 
 ## Code
 
